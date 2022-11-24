@@ -4,18 +4,18 @@ My name's Adelaide Schneider! I'm an enthusiast programmer and a russian-english
 
 * One of administrators at [Russian Hacknet Community](https://vk.com/coelmemes)
 
-## Skills!
+## Skills
 
 * Python, PyGame
 * XML, Hacknet Extensions
 
-## Learning:
+## Learning
 
 * C#, Unity Developlemt
 * C++, Arduino Development
 * Java, Backend Development
 
-## How to reach me?
+## Contacts
 
 * [meivetra@proton.me](/.) - email
 * [@meivetra](https://twitter.com/Meivetra) - twitter
