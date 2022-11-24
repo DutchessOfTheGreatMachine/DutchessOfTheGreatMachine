@@ -18,7 +18,7 @@ My name's Adelaide Schneider! I'm an enthusiast programmer and a russian-english
 ## Contacts
 
 * [meivetra@proton.me](/.) - email
-* [@meivetra](https://twitter.com/Meivetra) - twitter
+* [@meivetra](https://twitter.com/Meivetra) - Twitter
 * [@dutchessofthegreatmachine](https://vk.com/dutchessofthegreatmachine) - VK
 
 <!---
